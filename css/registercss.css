@@ -1,0 +1,158 @@
+  .banner{
+background: url(../images/2.jpg) no-repeat 0px 0px;
+background-size: cover;
+  }
+
+.even{
+width:100%;
+height:auto;
+background: url(../images/3.jpg) no-repeat 0px 0px;
+background-size: cover;
+}
+.ehed{
+background-color:#000000;
+}
+.ehed p{
+text-align:center;
+color:white;
+font-size:26px;
+margin-top:5px;
+}
+.regis1{
+	width:100%;
+	height:auto;
+	background-color:none;
+	padding-bottom:5%;
+	padding-top:2%;
+}
+.regis2{
+	width:90%;
+	height:auto;
+	background-color:none;
+	margin-top:5%;
+	border:2px solid white;
+}
+.regis2 h4{
+	text-align:center;
+	color:white;
+}
+.regis2 a{
+	color:#3498db;
+}
+.regis2 a:hover{
+	color:green;
+	text-decoration:none;
+}
+.regis2 img{
+	height:160px;
+	width:60%;
+}
+.regis3{
+	width:90%;
+	height:auto;
+	background-color:none;
+	margin-top:7%;
+	border:2px solid white;
+}
+.regis3 img{
+	height:160px;
+	width:60%;
+}
+.regis3 h4{
+	text-align:center;
+	color:white;
+}
+.regis4{
+	width:90%;
+	height:auto;
+	background-color:none;
+	margin-top:7%;
+	border:2px solid white;
+}
+.regis4 img{
+	height:160px;
+	width:60%;
+}
+.regis4 h4{
+	text-align:center;
+	color:white;
+}
+.regis5{
+	width:90%;
+	height:auto;
+	background-color:none;
+	margin-top:7%;
+	margin-bottom:5%;
+	border:2px solid white;
+}
+.regis5 h4{
+	text-align:center;
+	color:white;
+}
+label{
+  font-size: 17px;
+  color: white;
+  margin-left: 5%;
+  margin-top: 5px;
+}
+input[type="text"]{
+  width: 90%;
+  border: 1px solid black;
+  height: 40px;
+  margin-left: 5%;
+}
+select{
+  width: 90%;
+  border: 1px solid black;
+  height: 40px;
+  margin-left: 5%;
+}
+input[type="email"]{
+  width: 90%;
+  border: 1px solid black;
+  height: 40px;
+  margin-left: 5%;
+}
+input[type="phone"]{
+  width: 90%;
+  border: 1px solid black;
+  height: 40px;
+  margin-left: 5%;
+}
+input[type="radio"]{
+	margin-left:5%;
+}
+textarea{
+width: 90%;
+border: 1px solid black;
+height: auto;
+margin-left: 5%;
+}
+.regis1 input[type="submit"]{
+  margin-left: 5%;
+  width: 90%;
+  height: 45px;
+  margin-top: 10px;
+  background-color:#0097e6;
+  color: white;
+  border: none;
+  font-size: 19px;
+  cursor: pointer;
+}
+button{
+	width:80%;
+	height:40px;
+	background-color:#ecf0f1;
+	color:black;
+	border:none;
+}
+
+.foot{
+background-color:#000000;
+}
+.foot .paraa{
+font-size:18px;
+padding-top:10px;
+color:white;
+text-align:center;
+}
